@@ -1,0 +1,243 @@
+[20-Aug-2020 04:44:24 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getAllActuacionesByIdentidad.php on line 8
+[22-Aug-2020 03:42:36 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getActuacionesByIdProceso.php on line 8
+[22-Aug-2020 05:41:42 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getAllActuacionesByIdentidad.php on line 8
+[22-Aug-2020 14:04:59 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 9
+[22-Aug-2020 14:04:59 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 10
+[22-Aug-2020 14:04:59 UTC] PHP Notice:  Undefined index: fecha in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 11
+[22-Aug-2020 14:04:59 UTC] PHP Notice:  Undefined index: descripcion in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 12
+[22-Aug-2020 14:04:59 UTC] PHP Notice:  Undefined index: usuarioRegistro in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 13
+[22-Aug-2020 09:04:59 America/Bogota] PHP Notice:  Undefined index: avatar in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 24
+[22-Aug-2020 09:04:59 America/Bogota] PHP Notice:  Undefined variable: upload_name in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 67
+[25-Aug-2020 18:27:06 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getActuacionesByIdProceso.php on line 8
+[26-Aug-2020 14:46:43 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getAllActuacionesByIdentidad.php on line 8
+[27-Aug-2020 03:29:34 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getAllActuacionesByIdentidad.php on line 8
+[28-Aug-2020 19:38:09 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getActuacionesByIdProceso.php on line 8
+[31-Aug-2020 15:04:38 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getActuacionesByIdProceso.php on line 8
+[01-Sep-2020 08:25:10 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getAllActuacionesByIdentidad.php on line 8
+[03-Sep-2020 01:12:50 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getActuacionesByIdProceso.php on line 8
+[03-Sep-2020 21:44:28 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getAllActuacionesByIdentidad.php on line 8
+[05-Sep-2020 03:52:18 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getActuacionesByIdProceso.php on line 8
+[05-Sep-2020 10:24:05 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getAllActuacionesByIdentidad.php on line 8
+[06-Sep-2020 13:27:12 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getActuacionesByIdProceso.php on line 8
+[06-Sep-2020 19:34:50 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getActuacionesByIdProceso.php on line 8
+[06-Sep-2020 20:15:51 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getAllActuacionesByIdentidad.php on line 8
+[07-Sep-2020 18:02:39 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getActuacionesByIdProceso.php on line 8
+[08-Sep-2020 04:29:10 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getAllActuacionesByIdentidad.php on line 8
+[08-Sep-2020 11:16:01 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 9
+[08-Sep-2020 11:16:01 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 10
+[08-Sep-2020 11:16:01 UTC] PHP Notice:  Undefined index: fecha in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 11
+[08-Sep-2020 11:16:01 UTC] PHP Notice:  Undefined index: descripcion in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 12
+[08-Sep-2020 11:16:01 UTC] PHP Notice:  Undefined index: usuarioRegistro in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 13
+[08-Sep-2020 06:16:01 America/Bogota] PHP Notice:  Undefined index: avatar in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 24
+[08-Sep-2020 06:16:01 America/Bogota] PHP Notice:  Undefined variable: upload_name in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 67
+[08-Sep-2020 11:52:39 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getAllActuacionesByIdentidad.php on line 8
+[08-Sep-2020 16:06:28 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getActuacionesByIdProceso.php on line 8
+[09-Sep-2020 01:41:04 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getActuacionesByIdProceso.php on line 8
+[09-Sep-2020 14:47:46 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getActuacionesByIdProceso.php on line 8
+[10-Sep-2020 12:13:33 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 9
+[10-Sep-2020 12:13:33 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 10
+[10-Sep-2020 12:13:33 UTC] PHP Notice:  Undefined index: fecha in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 11
+[10-Sep-2020 12:13:33 UTC] PHP Notice:  Undefined index: descripcion in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 12
+[10-Sep-2020 12:13:33 UTC] PHP Notice:  Undefined index: usuarioRegistro in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 13
+[10-Sep-2020 07:13:33 America/Bogota] PHP Notice:  Undefined index: avatar in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 24
+[10-Sep-2020 07:13:33 America/Bogota] PHP Notice:  Undefined variable: upload_name in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 67
+[11-Sep-2020 06:49:19 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getAllActuacionesByIdentidad.php on line 8
+[12-Sep-2020 07:44:00 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getActuacionesByIdProceso.php on line 8
+[12-Sep-2020 18:41:09 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getActuacionesByIdProceso.php on line 8
+[13-Sep-2020 16:26:30 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 9
+[13-Sep-2020 16:26:30 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 10
+[13-Sep-2020 16:26:30 UTC] PHP Notice:  Undefined index: fecha in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 11
+[13-Sep-2020 16:26:30 UTC] PHP Notice:  Undefined index: descripcion in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 12
+[13-Sep-2020 16:26:31 UTC] PHP Notice:  Undefined index: usuarioRegistro in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 13
+[13-Sep-2020 11:26:31 America/Bogota] PHP Notice:  Undefined index: avatar in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 24
+[13-Sep-2020 11:26:31 America/Bogota] PHP Notice:  Undefined variable: upload_name in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 67
+[13-Sep-2020 19:32:07 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getAllActuacionesByIdentidad.php on line 8
+[13-Sep-2020 23:11:11 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getActuacionesByIdProceso.php on line 8
+[14-Sep-2020 01:56:15 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getActuacionesByIdProceso.php on line 8
+[14-Sep-2020 12:08:30 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getAllActuacionesByIdentidad.php on line 8
+[15-Sep-2020 15:12:13 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getAllActuacionesByIdentidad.php on line 8
+[15-Sep-2020 17:57:40 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getActuacionesByIdProceso.php on line 8
+[15-Sep-2020 23:48:52 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getActuacionesByIdProceso.php on line 8
+[16-Sep-2020 07:26:46 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getAllActuacionesByIdentidad.php on line 8
+[17-Sep-2020 09:56:26 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getActuacionesByIdProceso.php on line 8
+[17-Sep-2020 23:02:53 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getAllActuacionesByIdentidad.php on line 8
+[19-Sep-2020 09:03:36 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getActuacionesByIdProceso.php on line 8
+[20-Sep-2020 07:10:59 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getAllActuacionesByIdentidad.php on line 8
+[20-Sep-2020 14:21:53 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getActuacionesByIdProceso.php on line 8
+[22-Sep-2020 02:42:46 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getAllActuacionesByIdentidad.php on line 8
+[22-Sep-2020 10:15:37 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getActuacionesByIdProceso.php on line 8
+[23-Sep-2020 18:58:36 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getAllActuacionesByIdentidad.php on line 8
+[23-Sep-2020 19:23:36 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getActuacionesByIdProceso.php on line 8
+[24-Sep-2020 08:00:52 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 9
+[24-Sep-2020 08:00:52 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 10
+[24-Sep-2020 08:00:52 UTC] PHP Notice:  Undefined index: fecha in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 11
+[24-Sep-2020 08:00:52 UTC] PHP Notice:  Undefined index: descripcion in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 12
+[24-Sep-2020 08:00:52 UTC] PHP Notice:  Undefined index: usuarioRegistro in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 13
+[24-Sep-2020 03:00:52 America/Bogota] PHP Notice:  Undefined index: avatar in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 24
+[24-Sep-2020 03:00:52 America/Bogota] PHP Notice:  Undefined variable: upload_name in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 67
+[24-Sep-2020 08:13:40 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getAllActuacionesByIdentidad.php on line 8
+[25-Sep-2020 02:15:41 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getAllActuacionesByIdentidad.php on line 8
+[25-Sep-2020 13:58:57 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getActuacionesByIdProceso.php on line 8
+[26-Sep-2020 00:09:42 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getActuacionesByIdProceso.php on line 8
+[26-Sep-2020 22:01:12 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getActuacionesByIdProceso.php on line 8
+[27-Sep-2020 06:24:54 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 9
+[27-Sep-2020 06:24:54 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 10
+[27-Sep-2020 06:24:54 UTC] PHP Notice:  Undefined index: fecha in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 11
+[27-Sep-2020 06:24:54 UTC] PHP Notice:  Undefined index: descripcion in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 12
+[27-Sep-2020 06:24:54 UTC] PHP Notice:  Undefined index: usuarioRegistro in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 13
+[27-Sep-2020 01:24:54 America/Bogota] PHP Notice:  Undefined index: avatar in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 24
+[27-Sep-2020 01:24:54 America/Bogota] PHP Notice:  Undefined variable: upload_name in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 67
+[27-Sep-2020 21:28:16 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getAllActuacionesByIdentidad.php on line 8
+[28-Sep-2020 21:28:26 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getActuacionesByIdProceso.php on line 8
+[29-Sep-2020 03:01:21 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 9
+[29-Sep-2020 03:01:21 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 10
+[29-Sep-2020 03:01:21 UTC] PHP Notice:  Undefined index: fecha in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 11
+[29-Sep-2020 03:01:21 UTC] PHP Notice:  Undefined index: descripcion in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 12
+[29-Sep-2020 03:01:21 UTC] PHP Notice:  Undefined index: usuarioRegistro in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 13
+[28-Sep-2020 22:01:21 America/Bogota] PHP Notice:  Undefined index: avatar in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 24
+[28-Sep-2020 22:01:21 America/Bogota] PHP Notice:  Undefined variable: upload_name in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 67
+[29-Sep-2020 20:50:28 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getAllActuacionesByIdentidad.php on line 8
+[29-Sep-2020 20:09:12 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 69
+[02-Oct-2020 03:11:53 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getActuacionesByIdProceso.php on line 8
+[02-Oct-2020 11:04:59 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getActuacionesByIdProceso.php on line 8
+[02-Oct-2020 19:57:58 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getAllActuacionesByIdentidad.php on line 8
+[04-Oct-2020 04:22:40 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getActuacionesByIdProceso.php on line 8
+[05-Oct-2020 10:15:06 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getActuacionesByIdProceso.php on line 8
+[05-Oct-2020 12:24:15 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getActuacionesByIdProceso.php on line 8
+[05-Oct-2020 12:55:01 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getAllActuacionesByIdentidad.php on line 8
+[05-Oct-2020 19:44:31 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getAllActuacionesByIdentidad.php on line 8
+[06-Oct-2020 04:36:19 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getAllActuacionesByIdentidad.php on line 8
+[06-Oct-2020 04:54:19 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getActuacionesByIdProceso.php on line 8
+[07-Oct-2020 23:48:31 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getAllActuacionesByIdentidad.php on line 8
+[08-Oct-2020 03:24:05 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 9
+[08-Oct-2020 03:24:05 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 10
+[08-Oct-2020 03:24:05 UTC] PHP Notice:  Undefined index: fecha in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 11
+[08-Oct-2020 03:24:05 UTC] PHP Notice:  Undefined index: descripcion in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 12
+[08-Oct-2020 03:24:05 UTC] PHP Notice:  Undefined index: usuarioRegistro in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 13
+[07-Oct-2020 22:24:05 America/Bogota] PHP Notice:  Undefined index: avatar in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 24
+[07-Oct-2020 22:24:05 America/Bogota] PHP Notice:  Undefined variable: upload_name in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 67
+[07-Oct-2020 22:24:05 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 69
+[09-Oct-2020 14:39:29 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getActuacionesByIdProceso.php on line 8
+[10-Oct-2020 06:31:42 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getActuacionesByIdProceso.php on line 8
+[10-Oct-2020 07:30:18 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getActuacionesByIdProceso.php on line 8
+[12-Oct-2020 02:36:37 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 9
+[12-Oct-2020 02:36:37 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 10
+[12-Oct-2020 02:36:37 UTC] PHP Notice:  Undefined index: fecha in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 11
+[12-Oct-2020 02:36:37 UTC] PHP Notice:  Undefined index: descripcion in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 12
+[12-Oct-2020 02:36:37 UTC] PHP Notice:  Undefined index: usuarioRegistro in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 13
+[11-Oct-2020 21:36:37 America/Bogota] PHP Notice:  Undefined index: avatar in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 24
+[11-Oct-2020 21:36:37 America/Bogota] PHP Notice:  Undefined variable: upload_name in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 67
+[11-Oct-2020 21:36:37 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 69
+[14-Oct-2020 12:42:14 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 9
+[14-Oct-2020 12:42:14 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 10
+[14-Oct-2020 12:42:14 UTC] PHP Notice:  Undefined index: fecha in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 11
+[14-Oct-2020 12:42:14 UTC] PHP Notice:  Undefined index: descripcion in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 12
+[14-Oct-2020 12:42:15 UTC] PHP Notice:  Undefined index: usuarioRegistro in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 13
+[14-Oct-2020 07:42:15 America/Bogota] PHP Notice:  Undefined index: avatar in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 24
+[14-Oct-2020 07:42:15 America/Bogota] PHP Notice:  Undefined variable: upload_name in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 67
+[14-Oct-2020 07:42:15 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 69
+[14-Oct-2020 23:38:31 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 9
+[14-Oct-2020 23:38:31 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 10
+[14-Oct-2020 23:38:31 UTC] PHP Notice:  Undefined index: fecha in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 11
+[14-Oct-2020 23:38:31 UTC] PHP Notice:  Undefined index: descripcion in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 12
+[14-Oct-2020 23:38:31 UTC] PHP Notice:  Undefined index: usuarioRegistro in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 13
+[14-Oct-2020 18:38:31 America/Bogota] PHP Notice:  Undefined index: avatar in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 24
+[14-Oct-2020 18:38:31 America/Bogota] PHP Notice:  Undefined variable: upload_name in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 67
+[14-Oct-2020 18:38:31 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 69
+[15-Oct-2020 14:52:50 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 9
+[15-Oct-2020 14:52:50 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 10
+[15-Oct-2020 14:52:50 UTC] PHP Notice:  Undefined index: fecha in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 11
+[15-Oct-2020 14:52:50 UTC] PHP Notice:  Undefined index: descripcion in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 12
+[15-Oct-2020 14:52:50 UTC] PHP Notice:  Undefined index: usuarioRegistro in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 13
+[15-Oct-2020 09:52:50 America/Bogota] PHP Notice:  Undefined index: avatar in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 24
+[15-Oct-2020 09:52:50 America/Bogota] PHP Notice:  Undefined variable: upload_name in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 67
+[15-Oct-2020 09:52:50 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 69
+[20-Oct-2020 15:04:47 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 69
+[20-Oct-2020 15:17:25 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 69
+[20-Oct-2020 15:32:52 America/Bogota] PHP Notice:  Undefined variable: email in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 89
+[20-Oct-2020 15:32:52 America/Bogota] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (to):  in /home/e7jamdwnmw0k/public_html/ApiGevos/phpMailer/PHPMailer.php:1079
+Stack trace:
+#0 /home/e7jamdwnmw0k/public_html/ApiGevos/phpMailer/PHPMailer.php(1001): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress('to', '', 'Notificaci&oacu...')
+#1 /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php(89): PHPMailer\PHPMailer\PHPMailer->addAddress(NULL, 'Notificaci&oacu...')
+#2 {main}
+  thrown in /home/e7jamdwnmw0k/public_html/ApiGevos/phpMailer/PHPMailer.php on line 1079
+[20-Oct-2020 20:33:25 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 16
+[20-Oct-2020 20:33:25 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 17
+[20-Oct-2020 20:33:25 UTC] PHP Notice:  Undefined index: fecha in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 18
+[20-Oct-2020 20:33:25 UTC] PHP Notice:  Undefined index: descripcion in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 19
+[20-Oct-2020 20:33:25 UTC] PHP Notice:  Undefined index: usuarioRegistro in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 20
+[20-Oct-2020 15:33:25 America/Bogota] PHP Notice:  Undefined index: avatar in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 31
+[20-Oct-2020 15:33:25 America/Bogota] PHP Notice:  Undefined variable: upload_name in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 74
+[20-Oct-2020 15:33:25 America/Bogota] PHP Notice:  Undefined variable: email in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 89
+[20-Oct-2020 15:33:25 America/Bogota] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (to):  in /home/e7jamdwnmw0k/public_html/ApiGevos/phpMailer/PHPMailer.php:1079
+Stack trace:
+#0 /home/e7jamdwnmw0k/public_html/ApiGevos/phpMailer/PHPMailer.php(1001): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress('to', '', 'Notificaci&oacu...')
+#1 /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php(89): PHPMailer\PHPMailer\PHPMailer->addAddress(NULL, 'Notificaci&oacu...')
+#2 {main}
+  thrown in /home/e7jamdwnmw0k/public_html/ApiGevos/phpMailer/PHPMailer.php on line 1079
+[20-Oct-2020 15:48:08 America/Bogota] PHP Notice:  Undefined variable: email in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 89
+[20-Oct-2020 15:48:08 America/Bogota] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (to):  in /home/e7jamdwnmw0k/public_html/ApiGevos/phpMailer/PHPMailer.php:1079
+Stack trace:
+#0 /home/e7jamdwnmw0k/public_html/ApiGevos/phpMailer/PHPMailer.php(1001): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress('to', '', 'Notificaci&oacu...')
+#1 /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php(89): PHPMailer\PHPMailer\PHPMailer->addAddress(NULL, 'Notificaci&oacu...')
+#2 {main}
+  thrown in /home/e7jamdwnmw0k/public_html/ApiGevos/phpMailer/PHPMailer.php on line 1079
+[20-Oct-2020 15:52:05 America/Bogota] PHP Notice:  Undefined variable: email in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 89
+[20-Oct-2020 15:52:05 America/Bogota] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (to):  in /home/e7jamdwnmw0k/public_html/ApiGevos/phpMailer/PHPMailer.php:1079
+Stack trace:
+#0 /home/e7jamdwnmw0k/public_html/ApiGevos/phpMailer/PHPMailer.php(1001): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress('to', '', 'Notificaci&oacu...')
+#1 /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php(89): PHPMailer\PHPMailer\PHPMailer->addAddress(NULL, 'Notificaci&oacu...')
+#2 {main}
+  thrown in /home/e7jamdwnmw0k/public_html/ApiGevos/phpMailer/PHPMailer.php on line 1079
+[22-Oct-2020 11:23:04 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 16
+[22-Oct-2020 11:23:04 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 17
+[22-Oct-2020 11:23:04 UTC] PHP Notice:  Undefined index: fecha in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 18
+[22-Oct-2020 11:23:04 UTC] PHP Notice:  Undefined index: descripcion in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 19
+[22-Oct-2020 11:23:04 UTC] PHP Notice:  Undefined index: usuarioRegistro in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 20
+[22-Oct-2020 06:23:04 America/Bogota] PHP Notice:  Undefined index: avatar in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 31
+[22-Oct-2020 06:23:04 America/Bogota] PHP Notice:  Undefined variable: upload_name in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 80
+[22-Oct-2020 06:23:04 America/Bogota] PHP Notice:  Undefined variable: email in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 84
+[22-Oct-2020 06:23:04 America/Bogota] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (to):  in /home/e7jamdwnmw0k/public_html/ApiGevos/phpMailer/PHPMailer.php:1079
+Stack trace:
+#0 /home/e7jamdwnmw0k/public_html/ApiGevos/phpMailer/PHPMailer.php(1001): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress('to', '', 'Notificaci&oacu...')
+#1 /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php(84): PHPMailer\PHPMailer\PHPMailer->addAddress(NULL, 'Notificaci&oacu...')
+#2 {main}
+  thrown in /home/e7jamdwnmw0k/public_html/ApiGevos/phpMailer/PHPMailer.php on line 1079
+[22-Oct-2020 19:20:56 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/getActuacionesByIdProceso.php on line 8
+[26-Oct-2020 07:24:26 UTC] PHP Notice:  Undefined index: identidad in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 16
+[26-Oct-2020 07:24:26 UTC] PHP Notice:  Undefined index: idProceso in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 17
+[26-Oct-2020 07:24:26 UTC] PHP Notice:  Undefined index: fecha in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 18
+[26-Oct-2020 07:24:26 UTC] PHP Notice:  Undefined index: descripcion in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 19
+[26-Oct-2020 07:24:26 UTC] PHP Notice:  Undefined index: usuarioRegistro in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 20
+[26-Oct-2020 02:24:26 America/Bogota] PHP Notice:  Undefined index: avatar in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 31
+[26-Oct-2020 02:24:26 America/Bogota] PHP Notice:  Undefined variable: upload_name in /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php on line 80
+[26-Oct-2020 02:24:26 America/Bogota] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (to):  in /home/e7jamdwnmw0k/public_html/ApiGevos/phpMailer/PHPMailer.php:1079
+Stack trace:
+#0 /home/e7jamdwnmw0k/public_html/ApiGevos/phpMailer/PHPMailer.php(1001): PHPMailer\PHPMailer\PHPMailer->addOrEnqueueAnAddress('to', '', 'Notificaci&oacu...')
+#1 /home/e7jamdwnmw0k/public_html/ApiGevos/actuaciones/addActuacion.php(84): PHPMailer\PHPMailer\PHPMailer->addAddress('', 'Notificaci&oacu...')
+#2 {main}
+  thrown in /home/e7jamdwnmw0k/public_html/ApiGevos/phpMailer/PHPMailer.php on line 1079

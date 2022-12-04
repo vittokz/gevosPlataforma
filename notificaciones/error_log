@@ -1,0 +1,38 @@
+[19-Jun-2020 21:06:03 UTC] PHP Notice:  Array to string conversion in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/enviarNotificacion.php on line 65
+[19-Jun-2020 21:06:03 UTC] PHP Notice:  Array to string conversion in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/enviarNotificacion.php on line 65
+[19-Jun-2020 21:14:46 UTC] PHP Parse error:  syntax error, unexpected 'CURLOPT_USERPWD' (T_STRING) in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/enviarNotificacion.php on line 54
+[19-Jun-2020 21:14:49 UTC] PHP Parse error:  syntax error, unexpected 'CURLOPT_USERPWD' (T_STRING) in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/enviarNotificacion.php on line 54
+[19-Jun-2020 21:16:58 UTC] PHP Parse error:  syntax error, unexpected ''Authorization: key=AAAApv9o9k' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/enviarNotificacion.php on line 47
+[19-Jun-2020 21:17:00 UTC] PHP Parse error:  syntax error, unexpected ''Authorization: key=AAAApv9o9k' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/enviarNotificacion.php on line 47
+[02-Sep-2020 10:53:32 UTC] PHP Notice:  Trying to get property 'identidad' of non-object in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/guardarUserId.php on line 9
+[02-Sep-2020 10:53:32 UTC] PHP Notice:  Trying to get property 'userId' of non-object in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/guardarUserId.php on line 10
+[02-Sep-2020 22:50:01 UTC] PHP Notice:  Trying to get property 'identidad' of non-object in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/guardarUserId.php on line 9
+[02-Sep-2020 22:50:01 UTC] PHP Notice:  Trying to get property 'userId' of non-object in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/guardarUserId.php on line 10
+[04-Sep-2020 21:46:46 UTC] PHP Notice:  Trying to get property 'identidad' of non-object in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/guardarUserId.php on line 9
+[04-Sep-2020 21:46:46 UTC] PHP Notice:  Trying to get property 'userId' of non-object in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/guardarUserId.php on line 10
+[10-Sep-2020 19:18:55 UTC] PHP Notice:  Trying to get property 'identidad' of non-object in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/guardarUserId.php on line 9
+[10-Sep-2020 19:18:55 UTC] PHP Notice:  Trying to get property 'userId' of non-object in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/guardarUserId.php on line 10
+[14-Sep-2020 00:06:07 UTC] PHP Notice:  Trying to get property 'identidad' of non-object in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/guardarUserId.php on line 9
+[14-Sep-2020 00:06:07 UTC] PHP Notice:  Trying to get property 'userId' of non-object in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/guardarUserId.php on line 10
+[17-Sep-2020 08:56:13 UTC] PHP Notice:  Trying to get property 'identidad' of non-object in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/guardarUserId.php on line 9
+[17-Sep-2020 08:56:13 UTC] PHP Notice:  Trying to get property 'userId' of non-object in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/guardarUserId.php on line 10
+[19-Sep-2020 02:04:23 UTC] PHP Notice:  Trying to get property 'identidad' of non-object in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/guardarUserId.php on line 9
+[19-Sep-2020 02:04:23 UTC] PHP Notice:  Trying to get property 'userId' of non-object in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/guardarUserId.php on line 10
+[22-Sep-2020 04:45:24 UTC] PHP Notice:  Trying to get property 'identidad' of non-object in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/guardarUserId.php on line 9
+[22-Sep-2020 04:45:24 UTC] PHP Notice:  Trying to get property 'userId' of non-object in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/guardarUserId.php on line 10
+[23-Sep-2020 17:43:27 UTC] PHP Notice:  Trying to get property 'identidad' of non-object in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/guardarUserId.php on line 9
+[23-Sep-2020 17:43:27 UTC] PHP Notice:  Trying to get property 'userId' of non-object in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/guardarUserId.php on line 10
+[26-Sep-2020 16:17:25 UTC] PHP Notice:  Trying to get property 'identidad' of non-object in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/guardarUserId.php on line 9
+[26-Sep-2020 16:17:25 UTC] PHP Notice:  Trying to get property 'userId' of non-object in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/guardarUserId.php on line 10
+[29-Sep-2020 10:10:08 UTC] PHP Notice:  Trying to get property 'identidad' of non-object in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/guardarUserId.php on line 9
+[29-Sep-2020 10:10:08 UTC] PHP Notice:  Trying to get property 'userId' of non-object in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/guardarUserId.php on line 10
+[01-Oct-2020 04:47:25 UTC] PHP Notice:  Trying to get property 'identidad' of non-object in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/guardarUserId.php on line 9
+[01-Oct-2020 04:47:25 UTC] PHP Notice:  Trying to get property 'userId' of non-object in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/guardarUserId.php on line 10
+[02-Oct-2020 08:06:33 UTC] PHP Notice:  Trying to get property 'identidad' of non-object in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/guardarUserId.php on line 9
+[02-Oct-2020 08:06:33 UTC] PHP Notice:  Trying to get property 'userId' of non-object in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/guardarUserId.php on line 10
+[03-Oct-2020 23:43:48 UTC] PHP Notice:  Trying to get property 'identidad' of non-object in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/guardarUserId.php on line 9
+[03-Oct-2020 23:43:48 UTC] PHP Notice:  Trying to get property 'userId' of non-object in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/guardarUserId.php on line 10
+[07-Oct-2020 01:00:24 UTC] PHP Notice:  Trying to get property 'identidad' of non-object in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/guardarUserId.php on line 9
+[07-Oct-2020 01:00:24 UTC] PHP Notice:  Trying to get property 'userId' of non-object in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/guardarUserId.php on line 10
+[15-Oct-2020 01:32:32 UTC] PHP Notice:  Trying to get property 'identidad' of non-object in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/guardarUserId.php on line 9
+[15-Oct-2020 01:32:32 UTC] PHP Notice:  Trying to get property 'userId' of non-object in /home/e7jamdwnmw0k/public_html/ApiGevos/notificaciones/guardarUserId.php on line 10

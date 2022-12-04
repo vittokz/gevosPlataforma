@@ -1,0 +1,8 @@
+[07-Oct-2020 13:52:26 UTC] PHP Notice:  Undefined index: nombre in /home/e7jamdwnmw0k/public_html/ApiGevos/formatos/addFormato.php on line 9
+[07-Oct-2020 13:52:26 UTC] PHP Notice:  Undefined index: usuarioRegistro in /home/e7jamdwnmw0k/public_html/ApiGevos/formatos/addFormato.php on line 10
+[07-Oct-2020 08:52:26 America/Bogota] PHP Notice:  Undefined index: avatar in /home/e7jamdwnmw0k/public_html/ApiGevos/formatos/addFormato.php on line 21
+[07-Oct-2020 08:52:26 America/Bogota] PHP Notice:  Undefined variable: upload_name in /home/e7jamdwnmw0k/public_html/ApiGevos/formatos/addFormato.php on line 63
+[09-Oct-2020 18:22:15 UTC] PHP Notice:  Undefined index: nombre in /home/e7jamdwnmw0k/public_html/ApiGevos/formatos/addFormato.php on line 9
+[09-Oct-2020 18:22:15 UTC] PHP Notice:  Undefined index: usuarioRegistro in /home/e7jamdwnmw0k/public_html/ApiGevos/formatos/addFormato.php on line 10
+[09-Oct-2020 13:22:15 America/Bogota] PHP Notice:  Undefined index: avatar in /home/e7jamdwnmw0k/public_html/ApiGevos/formatos/addFormato.php on line 21
+[09-Oct-2020 13:22:15 America/Bogota] PHP Notice:  Undefined variable: upload_name in /home/e7jamdwnmw0k/public_html/ApiGevos/formatos/addFormato.php on line 63
